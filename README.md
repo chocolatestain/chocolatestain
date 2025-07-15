@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/cb6e5059-d776-42f9-89fc-66832f6e2b93)
 # About me 
 
 새로운 것을 만드는데 관심이 많은 개발자입니다.
