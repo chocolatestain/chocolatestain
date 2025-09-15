@@ -1,9 +1,6 @@
 ![image](https://github.com/user-attachments/assets/cb6e5059-d776-42f9-89fc-66832f6e2b93)
 # About me 
 
-새로운 것을 만드는데 관심이 많은 개발자입니다.
-조금씩 꾸준히 부족한 점을 채워보려 노력하고 있습니다.
-
 - 세종대학교 컴퓨터공학과 졸업
 - 신한DS 금융 SW 아카데미 4기
 
